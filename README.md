@@ -1,4 +1,5 @@
 # Bio
-All About Me 
+All About Me,
 
-Hi my name is Adam, these are my very first steps into the world of coding.
+Hi my name is **Adam**
+, these are my very first steps into the world of coding.
